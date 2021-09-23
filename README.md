@@ -9,15 +9,11 @@ neuron coverage leads to fewer defects detected, less natural inputs, and more b
 This project is developed by Professor [Miryung Kim](http://web.cs.ucla.edu/~miryung/)'s Software Engineering and Analysis Laboratory at UCLA. 
 If you encounter any problems, please open an issue or feel free to contact us:
 
-[Fabrice Harel-Canada](https://fabrice.harel-canada.com/): PhD student, fabricehc@cs.ucla.edu;
-
-[Lingxiao Wang](https://scholar.google.com/citations?user=VPyxd6kAAAAJ&hl=zh-CN): PhD student, lingxw@cs.ucla.edu;
-
-[Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): Assistant Professor, gulzar@cs.vt.edu;
-
-[Quanquan Gu](http://web.cs.ucla.edu/~qgu/): Assistant Professor, qgu@cs.ucla.edu;
-
-[Miryung Kim](https://web.cs.ucla.edu/~miryung/): Professor, miryung@cs.ucla.edu;
+- [Fabrice Harel-Canada](https://fabrice.harel-canada.com/): PhD student, fabricehc@cs.ucla.edu;
+- [Lingxiao Wang](https://scholar.google.com/citations?user=VPyxd6kAAAAJ&hl=zh-CN): PhD student, lingxw@cs.ucla.edu;
+- [Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): Assistant Professor, gulzar@cs.vt.edu;
+- [Quanquan Gu](http://web.cs.ucla.edu/~qgu/): Assistant Professor, qgu@cs.ucla.edu;
+- [Miryung Kim](https://web.cs.ucla.edu/~miryung/): Professor, miryung@cs.ucla.edu;
 
 ## How to cite 
 Please refer to our FSE'20 paper, [Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?](https://web.cs.ucla.edu/~miryung/Publications/fse2020-testingdeeplearning.pdf)
