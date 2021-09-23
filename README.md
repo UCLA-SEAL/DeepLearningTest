@@ -10,9 +10,13 @@ This project is developed by Professor [Miryung Kim](http://web.cs.ucla.edu/~mir
 If you encounter any problems, please open an issue or feel free to contact us:
 
 [Fabrice Harel-Canada](https://fabrice.harel-canada.com/): PhD student, fabricehc@cs.ucla.edu;
+
 [Lingxiao Wang](https://scholar.google.com/citations?user=VPyxd6kAAAAJ&hl=zh-CN): PhD student, lingxw@cs.ucla.edu;
+
 [Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): Assistant Professor, gulzar@cs.vt.edu;
+
 [Quanquan Gu](http://web.cs.ucla.edu/~qgu/): Assistant Professor, qgu@cs.ucla.edu;
+
 [Miryung Kim](https://web.cs.ucla.edu/~miryung/): Professor, miryung@cs.ucla.edu;
 
 ## How to cite 
